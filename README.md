@@ -9,3 +9,5 @@ This is a project I created using the following assets:
 - Font: https://www.dafont.com/shadow-of-the-deads.font
 
 If the authors of any of these assets are unhappy with my use, I humbly request them to ask me to remove them, and I will happily comply.
+
+This project has been made using HTML, CSS and JavaScript, by someone who is aspiring to become a real programmer someday.
