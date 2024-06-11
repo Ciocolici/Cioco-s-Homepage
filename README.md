@@ -10,4 +10,4 @@ This is a project I created using the following assets:
 
 If the authors of any of these assets are unhappy with my use, I humbly request them to ask me to remove them, and I will happily comply.
 
-This project has been made using HTML, CSS and JavaScript, by someone who is aspiring to become a real programmer someday.
+This project has been made using HTML, CSS and JavaScript, by someone who is aspiring to become a real programmer someday, and it is inspired by the work of my awesome trainer: https://github.com/EvilWeasel/PersonalHomepage
