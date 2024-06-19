@@ -1,7 +1,7 @@
 # Cioco-s-Homepage
 My personal homepage, with bookmarks for websites that I was frequently visiting at the time of upload, a clock and a Google search bar. 
 
-*To launch the page, start "index.html".*
+*To see the page you can access this link: https://ciocolici.github.io/Cioco-s-Homepage/*
 
 This is a project I created using the following assets:
 - Background: https://wallpaperswide.com/wow_cataclysm_worgen-wallpapers.html (upscaled x4)
